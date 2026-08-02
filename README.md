@@ -1,4 +1,4 @@
-# 🎵 ABC Events – Promoter AI
+# ABC Events – Promoter AI
 ## Enterprise AI Decision Intelligence Platform
 
 *A clickable enterprise prototype demonstrating an AI-assisted decision support platform for concert promoters.*
@@ -64,7 +64,7 @@ It is a clickable prototype intended to visualize the proposed solution rather t
 
 ---
 
-# 👥 Target Users
+# Target Users
 
 ### Primary Users
 
@@ -122,7 +122,7 @@ Approved Business Plan
 
 ---
 
-# 🤖 Core Capabilities
+# Core Capabilities
 
 - Business Plan Creation
 - Promoter AI Copilot
@@ -139,7 +139,7 @@ Approved Business Plan
 
 ---
 
-# ⭐ Signature Feature
+# Signature Feature
 
 ## Persistent AI Reasoning Panel
 
@@ -162,7 +162,7 @@ This creates an explainable AI experience that builds user trust.
 
 ---
 
-# 🏗 Solution Architecture
+# Solution Architecture
 
 The solution consists of:
 
@@ -190,7 +190,7 @@ The solution consists of:
 
 ---
 
-# 🎨 Design Philosophy
+# Design Philosophy
 
 The interface is inspired by modern enterprise AI platforms.
 
@@ -208,7 +208,7 @@ The emphasis is on clarity, trust, and decision support rather than visual compl
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 ## Frontend
 
@@ -227,6 +227,7 @@ The emphasis is on clarity, trust, and decision support rather than visual compl
 ## Prototype Platform
 
 - Lovable AI
+- Rocket AI
 - React-based application architecture
 
 > **Note:** This is a clickable prototype created to demonstrate user experience, solution design, and AI-assisted workflows. It does not include a production backend or live AI integrations.
