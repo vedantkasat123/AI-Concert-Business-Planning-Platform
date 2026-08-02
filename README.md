@@ -15,7 +15,7 @@ The objective is to improve business plan quality before leadership review while
 
 ---
 
-# 🎯 Business Problem
+# Business Problem
 
 Concert promoters rely heavily on senior leadership to validate business plans before deals are approved.
 
@@ -32,7 +32,7 @@ The proposed solution addresses these challenges through AI-assisted, evidence-b
 
 ---
 
-# 💡 Proposed Solution
+# Proposed Solution
 
 Promoter AI institutionalizes organizational expertise by combining:
 
@@ -48,7 +48,7 @@ Leadership always retains final approval authority.
 
 ---
 
-# 🎯 Prototype Purpose
+# Prototype Purpose
 
 This prototype was created to demonstrate:
 
@@ -80,7 +80,7 @@ It is a clickable prototype intended to visualize the proposed solution rather t
 
 ---
 
-# 🚀 Core User Journey
+# Core User Journey
 
 Business Opportunity
 
@@ -234,7 +234,7 @@ The emphasis is on clarity, trust, and decision support rather than visual compl
 
 ---
 
-# 🎓 Key Outcomes
+# Key Outcomes
 
 This project demonstrates:
 
@@ -258,4 +258,4 @@ This prototype has been created for demonstration and evaluation purposes. It vi
 
 **Vedant Kasat**
 
-Business Analyst | Solution Consultant | AI Product Enthusiast
+Business Analyst | Solution Consultant | Product Management
